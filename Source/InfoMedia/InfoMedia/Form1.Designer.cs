@@ -33,9 +33,9 @@
             // 
             // startButton
             // 
-            this.startButton.Location = new System.Drawing.Point(424, 94);
+            this.startButton.Location = new System.Drawing.Point(12, 12);
             this.startButton.Name = "startButton";
-            this.startButton.Size = new System.Drawing.Size(75, 23);
+            this.startButton.Size = new System.Drawing.Size(69, 32);
             this.startButton.TabIndex = 0;
             this.startButton.Text = "start";
             this.startButton.UseVisualStyleBackColor = true;
@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(562, 391);
+            this.ClientSize = new System.Drawing.Size(305, 448);
             this.Controls.Add(this.startButton);
             this.Name = "Form1";
             this.Text = "Form1";
